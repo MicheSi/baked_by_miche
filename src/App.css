@@ -1,6 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Sacramento&display=swap');
+
 html, body {
   box-sizing: border-box;
   font-size: 62.5%;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 4.8rem;
 }
 
 .App {
