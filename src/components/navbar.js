@@ -2,7 +2,11 @@
 const Nav = () => {
     return (
         <nav>
-            Nav
+            <a href=''>Home</a>
+            <a href=''>Cookies</a>
+            <a href=''>Macarons</a>
+            <a href=''>Other Products</a>
+            <a href=''>Contact</a>
         </nav>
     )
 }
