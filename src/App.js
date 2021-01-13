@@ -6,7 +6,7 @@ import OtherBakedGoods from './components/otherBakedGoods';
 import Macarons from './components/macarons';
 import Cookies from './components/cookies';
 
-import './App.css';
+import './stylesheets/App.css';
 
 function App() {
   return (
