@@ -1,0 +1,14 @@
+.navBar {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 3%;
+}
+
+.navBar a {
+    text-decoration: none;
+    color: black;
+}
+
+.navBar a:hover {
+    color: plum;
+}

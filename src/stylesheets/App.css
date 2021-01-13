@@ -1,3 +1,10 @@
+@import url('./homePage.css');
+@import url('./contactPage.css');
+@import url('./cookiePage.css');
+@import url('./macaronPage.css');
+@import url('./navbar.css');
+@import url('./otherProducts.css');
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Sacramento&display=swap');
 
 html, body {

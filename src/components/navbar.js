@@ -1,7 +1,7 @@
 
 const Nav = () => {
     return (
-        <nav>
+        <nav className='navBar'>
             <a href='/'>Home</a>
             <a href='/cookies'>Cookies</a>
             <a href='/macarons'>Macarons</a>
